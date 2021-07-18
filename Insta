@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style.css">
+       <title>Instagram</title>
+  </head>
+  <body>
+      <div class="instagram-wrapper">
+              <div class="instagram-phone>=
+              </div>
+              <div class="instagram-continue">
+<div class="group">
+<img src="./loguin-celular.JPG" class="instagram" alt="instagram"
+<div src="./img/instagram.png" class="instagram-logo" alt="instagram logo">
+<div class="profile-photo">
+<img src="Instagram.png" alt="foto login"
+</div>
+<a href="#" class="intagram"></a>
+        </div>
+    </div>
+        
+      
+</body>
+</html>
